@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>Curriculum Vitae</title>
+			<link rel="icon" href="images/icon.jpg"/>
+			<meta charset="utf-8">
+	</head>
+	<body>
+			<h1><mark>Curriculum Vitae</mark></h1>
+			<img style="border:5px solid indigo;"src="images/gregory.jpg" width="300px" height="300px"><h2>
+                        <strong>Name : Gazi Mehedi Hasan</strong></h2>
+			<h3 style="font-weight:300;color:white;background-color:Indigo">Contact Address</h3>
+			<hr/>
+			<p>
+			<strong>Phone</strong>   :01316444147<br>
+			<strong>E-mail</strong>  : gazi.mehedi@yahoo.com<br>
+			<strong>Address</strong> : Jatrabari Wapda Colony,Dhaka.
+			</p>
+			<hr/>
+			<h3 style="font-weight:300;color:white;background-color:Indigo">Objective</h3>
+			<hr/> <p style="front size:15px; front-width:30px">A student is primarily a person enrolled in a school or other educational institution who attends classes in a course to attain the appropriate level of mastery of a subject under the guidance of an instructor and who devotes time outside class to do whatever activities the instructor assigns that are necessary either for class preparation or to submit evidence of progress towards that mastery. In the broader sense, a student is anyone who applies themselves to the intensive intellectual engagement with some matter necessary to master it as part of some practical affair in which such mastery is basic or decisive.</p><hr/>
+			<h3 style="font-weight:300;color:white;background-color:Indigo">Educational</h3>
+			<hr/>
+			<pre>
+			<strong>Exam</strong>      : SSC
+			<strong>Session</strong>   : 2018
+			<strong>Institute</strong> : Bright School & College
+			<strong>Status</strong>    : Science
+			</pre>
+			<hr/>
+			<h3 style="font-width:30px;color:White;background:indigo">Computer's Skill</h3>
+			<hr/>
+			<pre>1.Operating systems (Windows and MacOS) ...
+2.Office suites (Microsoft Office, G Suite) ...
+3.Presentation software (PowerPoint, Keynote) ...
+4.Spreadsheets (Excel, Google Spreadsheets, etc.) ...
+5.Communication and collaboration tools (Slack, Skype, etc.) ...
+6.Accounting software (QuickBooks, FreshBooks, Xero, etc.)
+            </pre>
+			<hr/>
+			<h3 style="font-width:30px;color:white;background-color:indigo">Language Proficiency</h3>
+			<hr/>
+			<p>Good Command Over English and Colloquil English</p>
+			<hr/>
+	
+	
+	
+	</body>
